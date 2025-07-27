@@ -8,7 +8,7 @@ A structured SQL analytics project to manage and derive insights from bookstore 
 ## 🚀 Project Highlights
 
 📦 **Inventory Insights**
-- Filtered and tracked 100+ book records by genre, publication year, price, and stock level.
+- Filtered and tracked 400+ book records by genre, publication year, price, and stock level.
 - Identified low-stock and high-value books to guide restocking and pricing strategy.
 
 🧾 **Sales & Revenue Analysis**
@@ -54,12 +54,5 @@ Delivered a production-ready `.sql` solution file with **20+ business-focused qu
 - `README.md` — Project documentation
 
 ---
-
-## 📌 How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/prajwalitdeshpande/BookStore-Management.git
-   cd BookStore-Management
 
 
