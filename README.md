@@ -51,7 +51,7 @@ Delivered a production-ready `.sql` solution file with **20+ business-focused qu
 - `Customers data.sql` — Create and populate `Customers` table
 - `Orders data.sql` — Create and populate `Orders` table
 - `Solutions BookStore-Management.sql` — 20+ business queries and insights
-- Solutions BookStore-Management.pdf` | PDF version of the queries and analytics 
+- `Solutions BookStore-Management.pdf` — PDF version of the queries and analytics 
 - `README.md` — Project documentation
 
 ---
