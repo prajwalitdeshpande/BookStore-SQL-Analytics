@@ -43,7 +43,7 @@ Delivered a production-ready `.sql` solution file with **20+ business-focused qu
 - Scenario-driven problem solving for **business intelligence use cases**
 - Clean, readable, and modular SQL scripts
 
----
+----
 
 ## 📂 File Structure
 
