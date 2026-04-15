@@ -3,7 +3,7 @@
 
 A structured SQL analytics project to manage and derive insights from bookstore data. This project focuses on analyzing books, customers, and orders using optimized SQL queries to help drive inventory decisions, customer profiling, and revenue analysis.
 
----
+----
 
 ## 🚀 Project Highlights
 
